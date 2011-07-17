@@ -7,15 +7,21 @@ use base 'CGI::Application::Plugin::Authentication::Driver';
 
 =head1 NAME
 
+THIS MODULE IS UNSUPPORTED! YOU CAN ADOPT IT IF YOU LIKE IT! WRITE TO
+modules@perl.org IF YOU WANT TO MAINTAIN IT.
+
 CGI::Application::Plugin::Authentication::Driver::CDBI - Class::DBI Authentication Driver
 
 =head1 VERSION
 
-Version 0.02
+Version 0.03
+
+THIS MODULE IS UNSUPPORTED! YOU CAN ADOPT IT IF YOU LIKE IT! WRITE TO
+modules@perl.org IF YOU WANT TO MAINTAIN IT.
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 =head1 SYNOPSIS
 
@@ -149,6 +155,9 @@ Special thanks to Cees Hek for writing CGI::Application::Plugin::Authentication
 and his assistance in writing this module.
 
 =head1 COPYRIGHT & LICENSE
+
+THIS MODULE IS UNSUPPORTED! YOU CAN ADOPT IT IF YOU LIKE IT! WRITE TO
+modules@perl.org IF YOU WANT TO MAINTAIN IT.
 
 Copyright 2005 Shawn Sorichetti, all rights reserved.
 

@@ -1,9 +1,15 @@
 NAME
+    THIS MODULE IS UNSUPPORTED! YOU CAN ADOPT IT IF YOU LIKE IT! WRITE TO
+    modules@perl.org IF YOU WANT TO MAINTAIN IT.
+
     CGI::Application::Plugin::Authentication::Driver::CDBI - Class::DBI
     Authentication Driver
 
 VERSION
-    Version 0.01_01
+    Version 0.03
+
+    THIS MODULE IS UNSUPPORTED! YOU CAN ADOPT IT IF YOU LIKE IT! WRITE TO
+    modules@perl.org IF YOU WANT TO MAINTAIN IT.
 
 SYNOPSIS
       use base qw(CGI::Application);
@@ -70,6 +76,9 @@ ACKNOWLEDGEMENTS
     this module.
 
 COPYRIGHT & LICENSE
+    THIS MODULE IS UNSUPPORTED! YOU CAN ADOPT IT IF YOU LIKE IT! WRITE TO
+    modules@perl.org IF YOU WANT TO MAINTAIN IT.
+
     Copyright 2005 Shawn Sorichetti, all rights reserved.
 
     This program is free software; you can redistribute it and/or modify it

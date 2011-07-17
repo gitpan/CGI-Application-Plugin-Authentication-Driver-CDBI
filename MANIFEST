@@ -1,7 +1,6 @@
 Build.PL
 Changes
 lib/CGI/Application/Plugin/Authentication/Driver/CDBI.pm
-Makefile.PL
 MANIFEST
 META.yml			# Will be created by "make dist"
 README
@@ -16,3 +15,4 @@ t/lib/TestAppAuthPlain.pm
 t/lib/TestUsers.pm
 t/pod-coverage.t
 t/pod.t
+META.json
